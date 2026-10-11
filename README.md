@@ -1,7 +1,34 @@
+## Project Overview
+
+This is my first independent Excel data analytics project. I analysed a practice recruitment dataset containing 120 candidate records to explore recruitment activity, hiring performance and application trends.
+
+The aim was to develop my Excel skills while practising how to turn data into useful findings and recommendations.
+
+## Tools and Methods
+
+**Tool used:** Microsoft Excel
+
+- Cleaned and organised the original dataset.
+- Checked for missing values and duplicate records.
+- Left four missing interview scores blank rather than treating them as zero, as these candidates were still at the screening stage.
+- Used PivotTables and formulas to calculate recruitment KPIs.
+- Created charts to compare departments, recruitment sources, application dates and recruitment stages.
+- Built an interactive dashboard with slicers for Department and Position Applied.
+
+
 ## Dashboard Preview 
 
 ![HR Recruitment Dashboard 2026](HR%20Recuitment%20Excel%20Display%20Picture.png)
 
+## Excel Workbook
+
+[View or download the completed Excel project](Adrienne-Recruitment-tracker-2026.xlsx)
+
+## Data Source
+
+Practice dataset: [Saudi Recruitment Tracker 2026](https://prime-levels.com/data-hub/saudi-recruitment-tracker-2026).
+
+This is an independent learning project and does not represent recruitment data from an employer.
 # Recruitment-Analytics-Excel
 An interactive Excel recruitment analytics dashboard analysing 120 candidate records, hiring KPIs, application trends and recruitment performance using PivotTables, charts and slicers.
 
@@ -11,7 +38,7 @@ An interactive Excel recruitment analytics dashboard analysing 120 candidate rec
 
 Out of the 120 applications analysed, 25 resulted in successful hires, representing an observed hiring rate of **20.83%**.
 
-However, 78 applications (65%) remain in progress. This indicates that the current hiring rate does not represent the final recruitment outcome, as a substantial proportion of candidates have yet to reach a final decision of Hired.
+However, 78 applications (65%) remain in progress. This indicates that the current hiring rate does not represent the final recruitment outcome, as a substantial proportion of candidates have yet to reach a final decision.
 
 Recommendation:Continue monitoring outstanding applications and regularly update recruitment KPIs to provide a more accurate picture of overall hiring performance.
 
