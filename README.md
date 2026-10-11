@@ -29,4 +29,4 @@ Together, these four months accounted for 81 applications, representing **67.5% 
 
 Although July recorded only 3 applications, the dataset ends on 4 July 2026. Therefore, July represents an incomplete reporting period and cannot be directly compared with the preceding months.
 
-**Recommendation:** Use monthly application trends to support recruitment workload planning. Additional historical data would be required to determine whether the observed pattern reflects a recurring seasonal trend.
+Recommendation: Use monthly application trends to support recruitment workload planning. Additional historical data would be required to determine whether the observed pattern reflects a recurring seasonal trend.
