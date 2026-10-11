@@ -1,3 +1,7 @@
+
+# Recruitment-Analytics-Excel
+An interactive Excel recruitment analytics dashboard analysing 120 candidate records, hiring KPIs, application trends and recruitment performance using PivotTables, charts and slicers.
+
 ## Project Overview
 
 This is my first independent Excel data analytics project. I analysed a practice recruitment dataset containing 120 candidate records to explore recruitment activity, hiring performance and application trends.
@@ -29,8 +33,6 @@ The aim was to develop my Excel skills while practising how to turn data into us
 Practice dataset: [Saudi Recruitment Tracker 2026](https://prime-levels.com/data-hub/saudi-recruitment-tracker-2026).
 
 This is an independent learning project and does not represent recruitment data from an employer.
-# Recruitment-Analytics-Excel
-An interactive Excel recruitment analytics dashboard analysing 120 candidate records, hiring KPIs, application trends and recruitment performance using PivotTables, charts and slicers.
 
 ## Key Findings
 
